@@ -1,0 +1,15 @@
+.navbar{
+	
+background-color: #569fbf;
+}
+
+.navbar li a {
+color: white !important;
+	
+}
+
+
+.navbar li a:hover{
+	
+	color: #000000 !important;
+}
